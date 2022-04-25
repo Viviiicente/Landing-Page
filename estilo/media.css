@@ -21,8 +21,11 @@
         display: none;
     }
     ul{
+        text-align: center;
  margin: auto;
  font-size: 13px;
+ padding: 0;
     
     }
+
 }
