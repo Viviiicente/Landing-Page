@@ -1,10 +1,12 @@
 @media screen and (max-width:1000px){
     header{
         flex-direction: column;
+
     }
 
     #btncima{
         align-self:center;
+        font-size: 14px;
     }
 
     main{
