@@ -2,7 +2,13 @@
     header{
         flex-direction: column;
     }
+
+    #btncima{
+        align-self:center;
+    }
+
     main{
+        text-align: center;
         flex-direction: column;
     }
     h2{
@@ -21,7 +27,7 @@
         display: none;
     }
     ul{
-        text-align: center;
+text-align: center;
  margin: auto;
  font-size: 13px;
  padding: 0;
